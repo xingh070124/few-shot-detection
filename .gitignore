@@ -5,3 +5,5 @@ papers/
 *.pth
 *.pkl
 devnull
+docs/
+.vscode/
