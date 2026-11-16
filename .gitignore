@@ -1,0 +1,7 @@
+*.pdf
+papers/
+# local data / weights (large, not needed in git)
+*.tar
+*.pth
+*.pkl
+devnull
